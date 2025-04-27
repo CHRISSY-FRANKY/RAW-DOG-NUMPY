@@ -16,3 +16,9 @@ Open your IDE, Terminal, Code Editor and run
 import numpy as np
 print(np.__version__) 
 ```
+
+## Documentation
+
+- [ ] Getting Started
+- [ ] User guide
+- [ ] API Reference
