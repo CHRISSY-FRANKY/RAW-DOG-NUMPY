@@ -1,0 +1,7 @@
+{
+    "0":"using a python list/tuple ",
+    "1":"creating array with multiple arguments",
+    "2":"using a nested python list/tuple",
+    "3":"by explicitly specifying the type at creation",
+    "4":"an array with random initial content depending on the state of memory"
+}
